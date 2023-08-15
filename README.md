@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SosDay123
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Dream of the Red Chamber, cryptocurrency .
+- 🌱 I’m currently learning Python and Linux.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me :add me by WeChat--Z19821441437 or Discord--sosday68
+- 📫 How to reach me :add me by WeChat--Z19821441437 or Discord--sosday68.
 
 <!---
 SosDay123/SosDay123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
